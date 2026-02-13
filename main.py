@@ -6,7 +6,7 @@ from datetime import date
 
 TOKEN = "8284703353:AAFWBuW3m9Xfd6dvK58JIyOVP1WqX2DMbe4"
 ALLOWED_IDS = [5733226602, 2080411409]
-SITE_URL = "https://pweper.online/?love=zlatenka"
+SITE_URL = "https://pweper.ru/Valentine.html?love=zlatenka"
 
 START_DATE = date(2026, 1, 9)
 
